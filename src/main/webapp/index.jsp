@@ -1,6 +1,6 @@
 <form action="action_page.php">
    <div class="container">
-    <h1>Radical Student Registration cidc pipe line!</h1>
+    <h1>Radical Student Registration cicd pipe line tested ok !</h1>
     <p>Please fill in this form!</p>
     <hr>
 
